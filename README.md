@@ -1,5 +1,5 @@
 ------------Name:Chard Peter-------------
-#About
+About:
 Self made coder, completed a multiple number of courses and assignments. Took part in the Army JHUB Coding Scheme.
 Also currently continuiosly learning and bulding projects on a day to day basis in spare time out of work.
 
